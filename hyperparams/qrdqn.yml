@@ -1,5 +1,6 @@
 binance-unhedge-v0:
   policy: 'MultiInputPolicy'
+  n_timesteps: 300000
 
 atari:
   env_wrapper:

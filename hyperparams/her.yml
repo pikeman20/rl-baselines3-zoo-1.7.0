@@ -5,6 +5,7 @@
 #############################################################
 binance-unhedge-v0:
   policy: 'MultiInputPolicy'
+  n_timesteps: 300000
 
 parking-v0:
   n_timesteps: !!float 1e5
