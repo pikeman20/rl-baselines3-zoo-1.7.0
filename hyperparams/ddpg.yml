@@ -1,4 +1,7 @@
 # Tuned
+binance-unhedge-v0:
+  policy: 'MultiInputPolicy'
+
 MountainCarContinuous-v0:
   n_timesteps: 300000
   policy: 'MlpPolicy'

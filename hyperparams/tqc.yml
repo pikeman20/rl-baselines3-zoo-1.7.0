@@ -1,3 +1,6 @@
+binance-unhedge-v0:
+  policy: 'MultiInputPolicy'
+
 # Tuned
 MountainCarContinuous-v0:
   n_timesteps: !!float 50000

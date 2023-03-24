@@ -4,6 +4,10 @@ MountainCarContinuous-v0:
   policy: 'MlpPolicy'
   noise_type: 'ornstein-uhlenbeck'
   noise_std: 0.5
+  
+binance-unhedge-v0:
+  policy: 'MultiInputPolicy'
+
 
 Pendulum-v1:
   n_timesteps: 20000
